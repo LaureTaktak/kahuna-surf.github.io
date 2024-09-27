@@ -1,0 +1,32 @@
+.banner {
+    background-image: url(Images/plage1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 230px;
+    display: flex; 
+    align-items: top, right;
+    color: #ffffff;
+    font-size: 25px; 
+}
+
+
+.banner img{
+    width: auto;
+    height:  20%;
+    image-resolution: 1200px;
+    align-items: top, left;
+    image-rendering: optimizeQuality;
+    position: absolute; top: 10px; left: 10px;
+}
+
+
+.plage {
+    font-family: "Urban";
+    font: "Urban";
+    font-weight: normal;
+    font-style: normal;
+    justify-content: bottom, ;
+    font-size : 150px;
+    position: relative ; top: -40px;  left: 540px;
+    color : rgb(255, 242, 5)
+}

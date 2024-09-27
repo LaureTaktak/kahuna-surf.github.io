@@ -1,0 +1,42 @@
+@import url(1style.css/components/banner.css);
+@import url(1style.css/components/box.css);
+@import url(1style.css/components/buttons.css);
+@import url(style.css/components/valeurs.css);
+@import url(style.css/components/personnalisation.css);
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+#preview img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+}
+
+
+@font-face {
+    font-family: "Urban" ;
+    src: url('fonts/Urban Blocker Solid.ttf' );
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.definition {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: #9cad9b;
+    position: relative ; top: -25px;  left: 70px;
+}

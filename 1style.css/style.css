@@ -1,0 +1,41 @@
+@import url(style.css/components/banner.css);
+@import url(style.css/components/box.css);
+@import url(style.css/components/buttons.css);
+@import url(style.css/components/history.css);
+@import url(style.css/components/valeurs.css);
+@import url(style.css/components/personnalisation.css);
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+
+
+#preview img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+}
+
+
+@font-face {
+    font-family: "Urban Blocker" ;
+    src: url('fonts/Urban Blocker Solid.ttf' );
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h6 { 
+    font-style: italic;
+    color: grey;
+
+}

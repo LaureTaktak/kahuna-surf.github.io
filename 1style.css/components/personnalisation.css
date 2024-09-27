@@ -1,0 +1,76 @@
+
+
+
+.chris img{
+    position: absolute; left: 520px;
+}
+
+
+.type{
+    font-family:"Urban Blocje";
+    color: rgb(13, 114, 144);
+}
+
+.couv{
+    position: absolute; bottom: -2560px; 
+}
+
+.text {
+    color:rgb(13, 107, 107);
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute; bottom: -2900px; left: 400px; right: 400px;
+
+}
+.p1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.footer {
+    width: 100%;
+    background-color: #29756C;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    position : relative; bottom: -1400px;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    size: 50px;
+    
+}
+
+.social-icons {
+    margin-bottom: 10px;
+    list-style:none;
+}
+
+.social-icons i {
+    margin: 0 10px;
+    font-size:30px;
+    color: rgb(255, 255, 255);
+}
+
+.social-icons li {
+    display: inline;
+    padding: 10px;
+  }
+
+.social-icons img {
+    width: 200px;
+    height: auto;
+}
+
+.social-icons i:hover{
+    color : yellow;
+}
+
+.footer p {
+    color: white;
+    font-size: 10px;
+}
+
